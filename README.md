@@ -1,2 +1,1 @@
-# Projeto
-Projeto.
+# Projeto de um Portal Acadêmico.
